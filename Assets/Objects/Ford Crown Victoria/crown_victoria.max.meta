@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 79bb899a91bf2bb48a45562b4a52060f
+timeCreated: 1464080445
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera01
+    100002: Camera01.Target
+    100004: Compass01
+    100006: //RootNode
+    100008: crown_victoria01
+    100010: crown_victoria02
+    100012: part 38
+    100014: part 39
+    100016: part 40
+    100018: part 41
+    100020: part 42
+    100022: part 43
+    100024: part 44
+    100026: part 45
+    100028: part 46
+    100030: part 47
+    100032: part 48
+    100034: part 49
+    100036: part 50
+    100038: part 51
+    100040: part 52
+    100042: part 53
+    100044: part 54
+    100046: part 55
+    100048: part 56
+    100050: part 57
+    100052: part 58
+    100054: part 59
+    100056: part 60
+    100058: part 61
+    100060: part 62
+    100062: part 63
+    100064: part 64
+    100066: part 65
+    100068: part 66
+    100070: part 67
+    100072: part 68
+    100074: part 69
+    100076: part 70
+    100078: part 71
+    100080: part 72
+    100082: part 73
+    100084: part 74
+    100086: Plane01
+    100088: reflect_box01
+    400000: Camera01
+    400002: Camera01.Target
+    400004: Compass01
+    400006: //RootNode
+    400008: crown_victoria01
+    400010: crown_victoria02
+    400012: part 38
+    400014: part 39
+    400016: part 40
+    400018: part 41
+    400020: part 42
+    400022: part 43
+    400024: part 44
+    400026: part 45
+    400028: part 46
+    400030: part 47
+    400032: part 48
+    400034: part 49
+    400036: part 50
+    400038: part 51
+    400040: part 52
+    400042: part 53
+    400044: part 54
+    400046: part 55
+    400048: part 56
+    400050: part 57
+    400052: part 58
+    400054: part 59
+    400056: part 60
+    400058: part 61
+    400060: part 62
+    400062: part 63
+    400064: part 64
+    400066: part 65
+    400068: part 66
+    400070: part 67
+    400072: part 68
+    400074: part 69
+    400076: part 70
+    400078: part 71
+    400080: part 72
+    400082: part 73
+    400084: part 74
+    400086: Plane01
+    400088: reflect_box01
+    2300000: part 38
+    2300002: part 39
+    2300004: part 40
+    2300006: part 41
+    2300008: part 42
+    2300010: part 43
+    2300012: part 44
+    2300014: part 45
+    2300016: part 46
+    2300018: part 47
+    2300020: part 48
+    2300022: part 49
+    2300024: part 50
+    2300026: part 51
+    2300028: part 52
+    2300030: part 53
+    2300032: part 54
+    2300034: part 55
+    2300036: part 56
+    2300038: part 57
+    2300040: part 58
+    2300042: part 59
+    2300044: part 60
+    2300046: part 61
+    2300048: part 62
+    2300050: part 63
+    2300052: part 64
+    2300054: part 65
+    2300056: part 66
+    2300058: part 67
+    2300060: part 68
+    2300062: part 69
+    2300064: part 70
+    2300066: part 71
+    2300068: part 72
+    2300070: part 73
+    2300072: part 74
+    2300074: Plane01
+    2300076: reflect_box01
+    3300000: part 38
+    3300002: part 39
+    3300004: part 40
+    3300006: part 41
+    3300008: part 42
+    3300010: part 43
+    3300012: part 44
+    3300014: part 45
+    3300016: part 46
+    3300018: part 47
+    3300020: part 48
+    3300022: part 49
+    3300024: part 50
+    3300026: part 51
+    3300028: part 52
+    3300030: part 53
+    3300032: part 54
+    3300034: part 55
+    3300036: part 56
+    3300038: part 57
+    3300040: part 58
+    3300042: part 59
+    3300044: part 60
+    3300046: part 61
+    3300048: part 62
+    3300050: part 63
+    3300052: part 64
+    3300054: part 65
+    3300056: part 66
+    3300058: part 67
+    3300060: part 68
+    3300062: part 69
+    3300064: part 70
+    3300066: part 71
+    3300068: part 72
+    3300070: part 73
+    3300072: part 74
+    3300074: Plane01
+    3300076: reflect_box01
+    4300000: part 38
+    4300002: part 39
+    4300004: part 40
+    4300006: part 41
+    4300008: part 42
+    4300010: part 43
+    4300012: part 44
+    4300014: part 45
+    4300016: part 46
+    4300018: part 47
+    4300020: part 48
+    4300022: part 49
+    4300024: part 50
+    4300026: part 51
+    4300028: part 52
+    4300030: part 53
+    4300032: part 54
+    4300034: part 55
+    4300036: part 56
+    4300038: part 57
+    4300040: part 58
+    4300042: part 59
+    4300044: part 60
+    4300046: part 61
+    4300048: part 62
+    4300050: part 63
+    4300052: part 64
+    4300054: part 65
+    4300056: part 66
+    4300058: part 67
+    4300060: part 68
+    4300062: part 69
+    4300064: part 70
+    4300066: part 71
+    4300068: part 72
+    4300070: part 73
+    4300072: part 74
+    4300074: Plane01
+    4300076: reflect_box01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
